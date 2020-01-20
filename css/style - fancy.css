@@ -1,0 +1,25 @@
+/**************TAGS***********/
+body {
+  background-color: #033649;
+  background-image: url("../images/bg1.png");
+  background-size: cover;
+  margin: 0;
+}
+
+.name {
+  margin: auto;
+  width: 500px;
+  padding-top: 20%;
+  text-align: center;
+  color: #E8DDCB;
+  font-family: "Market Deco";
+  font-size: 100px;
+}
+
+.about {
+  margin: auto;
+  width: 300px;
+  text-align: center;
+  color: #E8DDCB;
+  font-family: "Market Deco"
+}
