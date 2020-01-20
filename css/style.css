@@ -6,7 +6,6 @@ body {
 }
 
 h1 {
-  width: 10%;
   margin: 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
@@ -37,14 +36,14 @@ a {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 182px;
+  padding-top: 362px;
 
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 440px;
+  top: 220px;
 }
 
 .bottom-cloud {
