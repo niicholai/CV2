@@ -10,11 +10,14 @@ h1 {
   margin: 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
+  line-height: 2;
+  font-size: 5.625rem;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
+  font-size: 2.5rem;
 }
 
 h3 {
@@ -26,22 +29,15 @@ a {
   color: #11999E;
 }
 
-.subheading {
-  font-weight: normal;
+.subtitle {
+    font-weight: normal;
 }
 
 .top-container {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
-  line-height: 2;
 
-}
-
-.middle-container {
-}
-
-.bottom-container {
 }
 
 .top-cloud {
@@ -52,6 +48,5 @@ a {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 350px;
 }
